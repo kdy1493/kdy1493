@@ -22,3 +22,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:rkdehdduq12@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white)](mailto:rkdehdduq12@naver.com)
+     
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdy1493&show_icons=true&theme=radical)
