@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=Blue&height=300&section=header&text=DongYub%20Kang&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DongYub%20Kang&fontSize=90" />
 
 <div align="center">
 	<img src="https://img.shields.io/badge/#3776AB?style=flat&logo=Python&logoColor=white" />
